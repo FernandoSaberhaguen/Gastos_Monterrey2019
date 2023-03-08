@@ -1,0 +1,11 @@
+pandas as pd
+matplotlib.pyplot as pet
+ntkl
+wordcloud
+sklearn
+Gensim
+numpy
+scipy
+
+
+ 
